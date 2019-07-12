@@ -1,2 +1,2 @@
-def test_false():
+def test_falsey():
     assert False
